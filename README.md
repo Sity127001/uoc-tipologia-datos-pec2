@@ -43,6 +43,9 @@ Este proyecto reproduce los conceptos de la PEC2 del Máster de Ciencia de Datos
 - Python 3.9+
 - Librerías: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
 
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+
 Instalación rápida:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
