@@ -40,7 +40,7 @@ Para que el notebook funcione correctamente:
 
 ```bash
 pip install -r data/requirements.txtrequirements.txt 
-
+```bash
 
 ## Referencias
 
