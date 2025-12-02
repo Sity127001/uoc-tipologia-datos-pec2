@@ -39,7 +39,7 @@ Para que el notebook funcione correctamente:
 - Instalar las dependencias ejecutando el siguiente comando desde la raíz del proyecto:
 
 ```bash
-pip install -r data/requirements.txtrequirements.txt 
+pip install -r requirements.txt 
 ```
 
 ## Referencias
