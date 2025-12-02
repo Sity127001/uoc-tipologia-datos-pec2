@@ -1,4 +1,5 @@
-# Análisis Telco Customer Churn
+# Análisis Telco Customer Churn de kaggle (fichero esta en la carpeta `/data`)
+
 
 Este proyecto contiene ejercicios de reducción, limpieza, normalización y modelado aplicados al dataset Telco Customer Churn.
 
@@ -29,18 +30,17 @@ Este proyecto contiene ejercicios de reducción, limpieza, normalización y mode
    - Entrenamiento de un modelo Random Forest.
    - Evaluación con accuracy, AUC, matriz de confusión y reporte de clasificación.
 
-## Librerías utilizadas
+## Entorno de ejecución
 
-- pandas, numpy, matplotlib, seaborn
-- scikit-learn (preprocesamiento, PCA, RandomForest)
-- IPython.display para visualización en notebook
+Para que el notebook funcione correctamente:
 
-## Resultados principales
+- Usar **Python 3.9 o superior**.
+- Asegurar de que el archivo del dataset de Kaggle se encuentra en la carpeta `/data`.
+- Instalar las dependencias ejecutando el siguiente comando desde la raíz del proyecto:
 
-- Transformaciones de normalización mejoran la adecuación de las variables para modelos.
-- PCA reduce tres variables a dos componentes que explican ~98% de la varianza.
-- El modelo Random Forest alcanza ~80% de accuracy y ~0.82 de AUC.
-- El modelo predice bien los clientes que permanecen, pero menos los que se van.
+```bash
+pip install -r data/requirements.txtrequirements.txt 
+
 
 ## Referencias
 
