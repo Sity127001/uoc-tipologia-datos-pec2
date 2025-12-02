@@ -1,4 +1,5 @@
-# Análisis Telco Customer Churn de kaggle (fichero esta en la carpeta `/data`)
+# Análisis Telco Customer Churn de kaggle
+ (fichero Telco Customer Churn esta en la carpeta `/data`)
 
 
 Este proyecto contiene ejercicios de reducción, limpieza, normalización y modelado aplicados al dataset Telco Customer Churn.
